@@ -1,1 +1,1 @@
-# App-Vaer-og-aktiviteter-
+# App: Vær ogaktiviteter
